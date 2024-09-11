@@ -1,9 +1,9 @@
 :root{
-  --primary-color: #ff274b;
-  --secondary-color:#ff4500;
-  --lighting-color: #ffffff;
-  --bgColor-1: #040404;
-  --bgColor-2: #22282a;
+  --primary-color: #FF6F61; /* لون وردي فاتح */
+  --secondary-color: #FFC1CC; /* لون وردي أفتح */
+  --lighting-color: #ffffff; /* لا تغييره */
+  --bgColor-1: #F7F3F2; /* لون بيج فاتح */
+  --bgColor-2: #EDE7F6; /* لون لافندر فاتح */
   --padding:8%;
 }
 *{
@@ -794,6 +794,4 @@ footer .content-footer .end{
     width: 100%;
   }
 
-} 
-
-  
+}
